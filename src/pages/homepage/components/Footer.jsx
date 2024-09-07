@@ -44,6 +44,8 @@ const Footer = () => {
             </div>
           </div>
         </div>
+
+        <span className="flex items-center mt-7 justify-center">Copyright &copy; NACOS OGITECH 2023/2024. <a href="https://abdurrahman.ng" target="_blank" className="text-primary"> Lead developer</a></span>
       </div>
     </footer>
   );
